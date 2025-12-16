@@ -1,8 +1,8 @@
-# Titanic EDA Project
+<h1>Titanic EDA Project</h1>
 
-**Author:** Komal Sakhidad  
+<p><strong>Author:</strong> Komal Sakhidad</p>
 
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="display: flex; gap: 12px; align-items: center; margin-bottom: 20px;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/komalbaloch" target="_blank">
@@ -26,26 +26,30 @@
 
 </div>
 
----
+<hr/>
 
-## Project Overview
-EDA (Exploratory Data Analysis) on Titanic dataset to understand patterns, missing values, outliers, and feature relationships.  
+<h2>Project Overview</h2>
+<p>EDA (Exploratory Data Analysis) on Titanic dataset to understand patterns, missing values, outliers, and feature relationships.</p>
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, ydata_profiling  
+<p><strong>Tools:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, ydata_profiling</p>
 
-**Skills Covered:** Data Cleaning, Visualization, Feature Engineering, Encoding, Outlier Handling, Profiling  
+<p><strong>Skills Covered:</strong> Data Cleaning, Visualization, Feature Engineering, Encoding, Outlier Handling, Profiling</p>
 
----
+<hr/>
 
-## Dataset
-- **Source:** Seaborn Built-in Titanic Dataset  
-- **Saved as:** `titanic.csv` (original) & `titanic_updated.csv` (cleaned & processed)
+<h2>Dataset</h2>
+<ul>
+  <li><strong>Source:</strong> Seaborn Built-in Titanic Dataset</li>
+  <li><strong>Saved as:</strong> <code>titanic.csv</code> (original) & <code>titanic_updated.csv</code> (cleaned & processed)</li>
+</ul>
 
----
+<hr/>
 
-## Key Features
-- Missing value handling  
-- Duplicate removal  
-- Outlier detection & log transformation  
-- Categorical encoding  
-- Interactive profiling report (`titanic_EDA_report.html`)  
+<h2>Key Features</h2>
+<ul>
+  <li>Missing value handling</li>
+  <li>Duplicate removal</li>
+  <li>Outlier detection & log transformation</li>
+  <li>Categorical encoding</li>
+  <li>Interactive profiling report (<code>titanic_EDA_report.html</code>)</li>
+</ul>
