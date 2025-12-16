@@ -2,27 +2,27 @@
 
 **Author:** Komal Sakhidad  
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div style="display: flex; gap: 12px; align-items: center;">
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/komalbaloch" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" title="LinkedIn"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/komalbaloch" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" title="LinkedIn"/>
+  </a>
 
-<!-- GitHub -->
-<a href="https://github.com/KomalBaloch" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" title="GitHub"/>
-</a>
+  <!-- GitHub -->
+  <a href="https://github.com/KomalBaloch" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub" title="GitHub"/>
+  </a>
 
-<!-- Portfolio -->
-<a href="https://komalbaloch.github.io/portfolio/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" title="Portfolio"/>
-</a>
+  <!-- Portfolio -->
+  <a href="https://komalbaloch.github.io/portfolio/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portfolio" title="Portfolio"/>
+  </a>
 
-<!-- Kaggle -->
-<a href="https://www.kaggle.com/KomalBaloch" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="30" title="Kaggle"/>
-</a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/KomalBaloch" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="30" alt="Kaggle" title="Kaggle"/>
+  </a>
 
 </div>
 
@@ -38,8 +38,8 @@ EDA (Exploratory Data Analysis) on Titanic dataset to understand patterns, missi
 ---
 
 ## Dataset
-- Source: Seaborn Built-in Titanic Dataset  
-- Saved as: `titanic.csv` (original) & `titanic_updated.csv` (cleaned & processed)
+- **Source:** Seaborn Built-in Titanic Dataset  
+- **Saved as:** `titanic.csv` (original) & `titanic_updated.csv` (cleaned & processed)
 
 ---
 
@@ -48,4 +48,4 @@ EDA (Exploratory Data Analysis) on Titanic dataset to understand patterns, missi
 - Duplicate removal  
 - Outlier detection & log transformation  
 - Categorical encoding  
-- Interactive profiling report (`titanic_EDA_report.html`)
+- Interactive profiling report (`titanic_EDA_report.html`)  
