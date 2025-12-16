@@ -1,4 +1,4 @@
-<h1>Titanic EDA Project</h1>
+**Titanic EDA Project**  
 
 <p><strong>Author:</strong> Komal Sakhidad</p>
 
